@@ -8,3 +8,9 @@ My Arch Linux Dotfiles
 `$ chmod +x setup.sh`
 
 `$ ./setup.sh`
+Restart i3wm/pc
+`$ nitrogen`
+Select the 1354012.png in nitrogen and apply
+
+
+Done.....
